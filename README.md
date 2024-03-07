@@ -1,2 +1,4 @@
-This full-stack application is heavily influenced by Carvana. AngelVana is where I can combine two of my passions - cars and coding. This project will be built with a React frontend, and a Java backend, with a heavy focus on best practices and TDD.
-Stay tuned for updates.
+<h2>AngelVana is a project where two amazing things are combined - cars and coding.</h2>
+<h3>- This full-stack project will be built using React and Java.</h3>
+<h3>- This project serves as a proof-of-concept, and therefore does not support purchases.</h3>
+<h3>- Stay tuned for updates!</h3>
